@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\bin\Debug\net6.0\HomeWork4(static).exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\bin\Debug\net6.0\HomeWork4(static).deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\bin\Debug\net6.0\HomeWork4(static).runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\bin\Debug\net6.0\HomeWork4(static).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\bin\Debug\net6.0\HomeWork4(static).pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\refint\HomeWork4(static).dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\HomeWork4(static).genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\HomeWork4(static)\HomeWork4(static)\obj\Debug\net6.0\ref\HomeWork4(static).dll
